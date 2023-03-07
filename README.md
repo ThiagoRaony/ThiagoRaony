@@ -1,7 +1,7 @@
 ### Olá Eu sou o Thiago Raony 👋
 - 🔭 Hoje trabalho com front-end
 
-- 🌱 Estudando lógica de programação
+- 🌱 Estudando lógica de programação e back-end no SENAI/DF
 
 - 📫 Contate-me no email: trs.assessor@gmail.com
 
