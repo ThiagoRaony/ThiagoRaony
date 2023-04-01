@@ -7,7 +7,7 @@
 
 - 😄 Pronouns: Ele/ Dele
 
-- ⚡ Fun fact: Sou um mago
+- ⚡ Fun fact: Sou Xamânico e iniciado na alta magia
 <div align="center">
 
   <a href="https://github.com/thiagoraony">
